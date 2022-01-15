@@ -10,5 +10,20 @@ java {
 dependencies {
     implementation 'org.json:json:20211205'
     implementation 'org.jetbrains:annotations:15.0'
+    testImplementation "org.junit.jupiter:junit-jupiter-api:5.7.2"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:5.7.2"
+}
+
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            groupId = 'com.github.Kutikov.POTesMANU_DataBase'
+            artifactId = 'pdb_lib'
+            version = '0.1'
+
+            from components.java
+        }
+    }
 }
 
