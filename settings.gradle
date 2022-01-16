@@ -8,5 +8,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "POTesMANU DataBase"
-include ':app'
+include ':pdb_editor'
 include ':pdb_lib'
