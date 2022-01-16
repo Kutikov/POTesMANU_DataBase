@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LibTheme" parent="Theme.MaterialComponents.Light.DarkActionBar.Bridge">
+        <item name="colorPrimary">#00796b</item>
+        <item name="colorPrimaryDark">#004d40</item>
+        <item name="colorAccent">#00acc1</item>
+        <item name="materialCalendarStyle">@style/Widget.MaterialComponents.MaterialCalendar</item>
+        <item name="materialCalendarFullscreenTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen</item>
+        <item name="materialCalendarTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorOnSurface">#cc000000</item>
+
+        <item name="white">#FFFFFF</item>
+        <item name="iconsColor">#343434</item>
+        <item name="chipColor">#3326A69A</item>
+        <item name="bottomColor">#26A69A</item>
+        <item name="bottomBarColor">#dddddd</item>
+        <item name="windowBackground">#f5f5f5</item>
+
+        <item name="imageButtonBackground">#d9d9d9</item>
+        <item name="imageButtonBackgroundInactive">#B8B8B8</item>
+        <item name="imageButtonForeground">#242424</item>
+        <item name="primaryTextColor">#000</item>
+        <item name="secondaryTextColor">#555</item>
+
+        <item name="buttonThemeBackground">#80CBC4</item>
+        <item name="buttonThemeBackgroundInactive">#BABFBA</item>
+        <item name="buttonThemeForeground">#004D40</item>
+
+        <item name="buttonRedBackground">#FF8A80</item>
+        <item name="buttonRedBackgroundInactive">#C3928E</item>
+        <item name="buttonRedMiddleground">#D32F2F</item>
+        <item name="buttonRedForeground">#5A0101</item>
+    </style>
+
+    <style name="LibTheme.Dark" parent="Theme.MaterialComponents.Bridge">
+        <item name="colorPrimary">#00796b</item>
+        <item name="colorPrimaryDark">#004d40</item>
+        <item name="colorAccent">#00acc1</item>
+
+        <item name="materialCalendarStyle">@style/Widget.MaterialComponents.MaterialCalendar</item>
+        <item name="materialCalendarFullscreenTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen</item>
+        <item name="materialCalendarTheme">@style/ThemeOverlay.MaterialComponents.MaterialCalendar</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorOnSurface">#ccffffff</item>
+
+        <item name="white">#ff303030</item>
+        <item name="iconsColor">#ffffff</item>
+        <item name="chipColor">#3326A69A</item>
+        <item name="bottomColor">#26A69A</item>
+        <item name="bottomBarColor">#161616</item>
+        <item name="windowBackground">#212121</item>
+
+        <item name="imageButtonBackground">#404040</item>
+        <item name="imageButtonBackgroundInactive">#606060</item>
+        <item name="imageButtonForeground">#ddd</item>
+        <item name="primaryTextColor">#fff</item>
+        <item name="secondaryTextColor">#aaa</item>
+
+        <item name="buttonThemeBackground">#004d40</item>
+        <item name="buttonThemeBackgroundInactive">#1F3E39</item>
+        <item name="buttonThemeForeground">#B2DFDB</item>
+
+        <item name="buttonRedBackgroundInactive">#752B2B</item>
+        <item name="buttonRedBackground">#7f0000</item>
+        <item name="buttonRedMiddleground">#F44336</item>
+        <item name="buttonRedForeground">#EF9A9A</item>
+    </style>
+</resources>

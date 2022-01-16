@@ -1,4 +1,4 @@
-package com.damirkut.pdb_app;
+package com.damirkut.pdb_android;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.damirkut.pdb", appContext.getPackageName());
+        assertEquals("com.damirkut.pdb_android.test", appContext.getPackageName());
     }
 }

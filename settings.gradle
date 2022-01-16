@@ -10,3 +10,4 @@ dependencyResolutionManagement {
 rootProject.name = "POTesMANU DataBase"
 include ':pdb_editor'
 include ':pdb_lib'
+include ':pdb_android'

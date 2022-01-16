@@ -1,4 +1,4 @@
-package com.damirkut.pdb_app;
+package com.damirkut.pdb_editor;
 
 import org.junit.Test;
 

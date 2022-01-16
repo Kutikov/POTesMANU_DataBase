@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="white" format="color"/>
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorAccent" format="color" />
+    <attr name="iconsColor" format="color" />
+    <attr name="windowBackground" format="color"/>
+    <attr name="chipColor" format="color"/>
+    <attr name="bottomColor" format="color"/>
+    <attr name="bottomBarColor" format="color"/>
+
+    <attr name="primaryTextColor" format="color"/>
+    <attr name="secondaryTextColor" format="color"/>
+    <attr name="imageButtonBackground" format="color"/>
+    <attr name="imageButtonBackgroundInactive" format="color"/>
+    <attr name="imageButtonForeground" format="color"/>
+    <attr name="buttonThemeForeground" format="color"/>
+    <attr name="buttonThemeBackground" format="color"/>
+    <attr name="buttonThemeBackgroundInactive" format="color"/>
+    <attr name="buttonRedBackground" format="color"/>
+    <attr name="buttonRedBackgroundInactive" format="color"/>
+    <attr name="buttonRedMiddleground" format="color"/>
+    <attr name="buttonRedForeground" format="color"/>
+</resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.damirkut.pdb_app">
+    package="com.damirkut.pdb_editor">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.POTesMANUDataBase">
         <activity
-            android:name="com.damirkut.pdb_app.MainActivity"
+            android:name="com.damirkut.pdb_editor.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
